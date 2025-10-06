@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "Estrelas",
+        "tag":1
+    },
+    {
+        "id": 1,
+        "title": "Galáxias",
+        "tag":2
+    },
+    {
+        "id": 2,
+        "title": "Luas",
+        "tag":3
+    },
+    {
+        "id": 3,
+        "title": "Planetas",
+        "tag":4
+    },
+    {
+        "id": 4,
+        "title": "Todas"
+    }
+]

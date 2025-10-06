@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Estrela Pistola",
+    "src": "Alura Space",
+    "path": "/images/photo-5.png",
+    "id": "5",
+    "tagId": 1
+  },
+  {
+    "title": "Céu estrelado",
+    "src": "Alura Space",
+    "path": "/images/photo-9.png",
+    "id": "9",
+    "tagId": 1
+  },
+  {
+    "title": "Ilustração",
+    "src": "Alura Space",
+    "path": "/images/photo-10.png",
+    "id": "10",
+    "tagId": 1
+  }
+]
